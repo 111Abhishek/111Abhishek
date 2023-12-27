@@ -10,14 +10,13 @@
 
 - 🤝 Always open to having fun collaborating on building **real world apps.**
 
-- 🎯 I’m looking for a **relevant Android Internship where I can enhance my development skills and take it to a more professional level**
+- 🎯 I’m looking for a **relevant Android & Ios  Internship where I can enhance my development skills and take it to a more professional level**
 
 - 👩🏻 Pronouns **He / Him**
 
-- 📧 Reach me via **AryanBisht9458@gmail.com** .
+- 📧 Reach me via **princeabhi.jobs@gmail.com** .
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/abhishek-kumar-908744221)
 
-- 🌈 Fun fact **I don't know if I am ever gonna stop playing football⚽⚽**
 
 
 <h3 align="left">🛠 Languages and Tools I use:</h3>
