@@ -15,7 +15,7 @@
 - 👩🏻 Pronouns **He / Him**
 
 - 📧 Reach me via **princeabhi.jobs@gmail.com** .
-//linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/abhishek-kumar-908744221)
+
 
 
 
