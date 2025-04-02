@@ -4,13 +4,11 @@
 
 <h3 align="left">👩🏻‍💻 About Me :</h3>
 
--  🙋 ♀️ Im a 4th year undergrad pursuing BTech with ECE.
+-  🙋 ♀️ Im a currently workday developer at Zeiss.
 
-- 💻  I’m currently exploring and developing apps with **Android Studio and flutter**
+- 💻  I’m currently exploring and developing apps with **Workday Studio and Workday Developer Site earlier flutter**
 
-- 🤝 Always open to having fun collaborating on building **real world apps.**
-
-- 🎯 I’m looking for a **relevant Android & Ios  Internship where I can enhance my development skills and take it to a more professional level**
+- 🤝 Always open to having fun collaborating on building **real world apps in workday .**
 
 - 👩🏻 Pronouns **He / Him**
 
